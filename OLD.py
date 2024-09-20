@@ -1,2 +1,2 @@
 import old
-old.Hacker
+old.Hacker()
